@@ -1,0 +1,10 @@
+C:\Users\7010\source\repos\Lab\bin\Debug\Lab.exe.config
+C:\Users\7010\source\repos\Lab\bin\Debug\Lab.exe
+C:\Users\7010\source\repos\Lab\bin\Debug\Lab.pdb
+C:\Users\7010\source\repos\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\Users\7010\source\repos\Lab\obj\Debug\Lab.Form1.resources
+C:\Users\7010\source\repos\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\7010\source\repos\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\7010\source\repos\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\7010\source\repos\Lab\obj\Debug\Lab.exe
+C:\Users\7010\source\repos\Lab\obj\Debug\Lab.pdb
